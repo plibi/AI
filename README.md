@@ -31,7 +31,7 @@
   8. Adult Census Income Prediction [(Kaggle)](https://www.kaggle.com/uciml/adult-census-income)
   9. ...
   10. Bag of Words Meets Bags of Popcorn [(Kaggle)](https://www.kaggle.com/c/word2vec-nlp-tutorial/data) - NLP
-  11. Naver movie [(Github)](https://github.com/e9t/nsmc)
+  11. Naver sentiment movie corpus [(Github)](https://github.com/e9t/nsmc)
   12. Quora Question Pairs [(Kaggle)]()
 
 
