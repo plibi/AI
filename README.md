@@ -1,12 +1,16 @@
 # Machine Learning
-
-- Supervised Learning
+  > Infering unkowns from knowns, 기계가 많은 데이터를 사용해서 결과를 설명할 수 있는 특징, 패턴, 수식을 찾아내도록 하는 것
+  - 다양한 기법이 존재하고 대개 통계적 기법 및 아이디어를 기반으로 함
+  - 이 기법들을 구현하는 과정에서 알고리즘, 컴퓨터과학, 수학이 어우러져 있음
+  - => 어렵다 (코드 자체가 어려운 게 아니라 코드가 담고있는 배경과 이론이 쉽지않다)
+  - 
+- Supervised Learning (지도 학습)
   - KNN
   - Decision Tree
   - SVM
   - Ensemble
   - ...
-- Unsupervised Learning
+- Unsupervised Learning (비지도 학습)
   - K-Means
   - DBSCAN
   - ...
