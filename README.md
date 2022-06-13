@@ -8,7 +8,7 @@
 - => 어렵다 (코드 자체가 어려운 게 아니라 코드가 담고있는 배경과 이론이 쉽지않다)
 
 - ``Supervised Learning (지도 학습)``
-  - KNN
+  - [KNN](https://github.com/plibi/Machine-Learning/blob/master/KNN.ipynb)
   - Decision Tree
   - SVM
   - Ensemble
