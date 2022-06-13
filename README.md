@@ -7,15 +7,15 @@
 - 이 기법들을 구현하는 과정에서 알고리즘, 컴퓨터과학, 수학이 어우러져 있음
 - => 어렵다 (코드 자체가 어려운 게 아니라 코드가 담고있는 배경과 이론이 쉽지않다)
 
-- **Supervised Learning (지도 학습)**
-  - ``K-최근접 이웃`` [(KNN 정리 및 구현)](https://github.com/plibi/Machine-Learning/blob/master/KNN.ipynb)
-  - ``Decision Tree``
-  - ``SVM``
-  - ``Ensemble``
+- ``Supervised Learning (지도 학습)``
+  - **K-최근접 이웃** [(KNN 정리 및 구현)](https://github.com/plibi/Machine-Learning/blob/master/KNN.ipynb)
+  - **Decision Tree**
+  - **SVM**
+  - **Ensemble**
   - ...
-- **Unsupervised Learning (비지도 학습)**
-  - ``K-Means``
-  - ``DBSCAN``
+- ``Unsupervised Learning (비지도 학습)``
+  - **K-Means**
+  - **DBSCAN**
   - ...
 
 # DeepLearning
