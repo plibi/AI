@@ -18,7 +18,11 @@
   - 데이터의 정답에 해당하는 레이블을 학습해 새로운 데이터의 레이블 예측 => 일반화
   - 일반화 성능이 제일 좋은 모델을 찾는 문제
   - **K-최근접 이웃** [(KNN 정리 및 구현)](https://github.com/plibi/Machine-Learning/blob/master/KNN.ipynb)
+<<<<<<< HEAD
   - **Decision Tree** [](DT 정리 및 구현)]()
+=======
+  - **Decision Tree** [(DT 정리 및 구현)](https://github.com/plibi/Machine-Learning/blob/master/DecisionTree.ipynb)
+>>>>>>> dfbd6155a5e2d45fa7ed69427cdf11fde0190117
   - **SVM**
   - **Ensemble**
   - ...
