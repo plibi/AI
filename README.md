@@ -38,12 +38,14 @@
 
 
 
-##### Hyperparameter Tuning
+#### Hyperparameter Tuning
 
 - Hyperparameter를 수정해가며 모델을 최적화하는 과정
 - 그리드서치, 랜덤 서치 등등
 - 간단한 ML 모델 튜닝 [(코드)](https://github.com/plibi/Machine-Learning/blob/master/HyperparameterTuning.ipynb)
-- 딥러닝 모델 튜닝[(코드)]()
+- 딥러닝 모델 튜닝[(코드)](https://github.com/plibi/Machine-Learning/blob/master/DNN%20Hyperparameter%20Tuning.ipynb)
+
+
 
 
 ## DeepLearning
@@ -54,7 +56,7 @@
 
 - ``CNN``
   
-  - Convolutional Neural Network, 
+  - Convolutional Neural Network, [(코드)](https://github.com/plibi/Machine-Learning/blob/master/Deep%20Learning/CNN.ipynb)
 
 - ``RNN``
   
