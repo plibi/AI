@@ -20,7 +20,7 @@
   - **K-최근접 이웃** [(KNN 정리 및 구현)](https://github.com/plibi/Machine-Learning/blob/master/KNN.ipynb)
   - **Decision Tree** [(DT 정리 및 구현)](https://github.com/plibi/Machine-Learning/blob/master/DecisionTree.ipynb)
   - **SVM** [(SVM 구현)](https://github.com/plibi/Machine-Learning/blob/master/SVM.ipynb)
-  - **Ensemble**
+  - **Ensemble** [(Ensemble 구현)](https://github.com/plibi/Machine-Learning/blob/master/ML/Ensemble.ipynb)
   
   
 
