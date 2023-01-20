@@ -319,7 +319,9 @@ def transformer(vocab_size, num_layers, dff, d_model, num_heads, dropout, name='
 
 
 def loss_function(y_true, y_pred):
-    y_true = tf.reshape(y_true, shape=(-1, MAX_LENGTH - 1))
+    print(y_true)
+#     y_true = tf.reshape(y_true, shape=(-1, MAX_LENGTH - 1))
+    y_true = tf.reshape(y_true, shape=(-1, len(y_true[0]) - 1))
     
     loss = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True, reduction='none')(y_true, y_pred)
     
